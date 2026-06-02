@@ -1,4 +1,4 @@
-# 
+# Free Process Explorer extensions for Mac OS | Lightweight Process Explorer extensions for PC Windows. Featuring multi-format support and gaming mode — optimized for maximum performance on every platform.
 
 
 
